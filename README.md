@@ -5,11 +5,11 @@ Download the Raspbian Stretch in the SD card of Raspberry Pi and connect the ras
 Open SSH of Raspian, to connect the raspberry Pi 
 To connect the network to raspbbery Pi. enter 
 
-**network={
-ssid="your_wifi_name"
-psk="your_wifi_password"
-key_mgmt=WPA-PSK
-}**
+**network={  
+ssid="your_wifi_name"  
+psk="your_wifi_password"  
+key_mgmt=WPA-PSK  
+}**  
 
 ##Some prerequisites:-
 
